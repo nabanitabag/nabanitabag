@@ -5,6 +5,8 @@ Namaste peeps! In this era of Instagram, I am glad that you stumbled upon my Git
 I am Nabanita Bag, a passionate tech enthusiast from India. After graduating from NIT Allahabad in 2020, I am currently working as a Software engineer in Qualcomm, Hyderabad and have previously worked at American Express, Bangalore.
 
 Being born in Kolkata and brought up in across India, I have been raised to be an inquisitive person. This has brought me to the world of programming.
-I love exploring and keeping updated about technologies and worldviews.
+I love exploring and keeping updated about technologies and worldviews. Having tried my hands on ML and Android a bit, I am exploring full stack Web Development using MERN stack now.
 
-Go on and explore my profile.
+Go on and explore my profile. Feel free to reach out to me on nabanita5041@gmail.com or on +91 9129080882.
+
+Thanks
