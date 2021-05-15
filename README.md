@@ -7,7 +7,7 @@ I am Nabanita Bag, a passionate tech enthusiast from India. After graduating fro
 Being born in Kolkata and brought up in across India, I have been raised to be an inquisitive person. This has brought me to the world of programming.
 I love exploring and keeping updated about technologies and worldviews. Having tried my hands on ML and Android a bit, I am exploring full stack Web Development using MERN stack now.
 
-Go on and explore my profile to find my personal projects and solutions of Algoexpert.io too. 
+Go on and explore my profile! 
 
 Feel free to reach out to me on nabanita5041@gmail.com.
 
