@@ -9,5 +9,5 @@ I love exploring and keeping updated about technologies and worldviews. Having t
 
 Go on and explore my profile! 
 
-Feel free to reach out to me on nabanita5041@gmail.com or +91 9129080882.
+Feel free to reach out to me on nabanita5041@gmail.com
 
