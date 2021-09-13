@@ -11,3 +11,4 @@ Go on and explore my profile!
 
 Feel free to reach out to me on nabanita5041@gmail.com
 
+![](https://komarev.com/ghpvc/?username=nabanitabag)
