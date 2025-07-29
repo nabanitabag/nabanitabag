@@ -11,8 +11,7 @@ I’m a software developer who loves building meaningful technology with empathy
 - 🌍 Exploring global cultures and sustainable tech solutions
 
 ### 🎯 Currently:
-- 🎓 Pursuing my Master’s in Computer Science at the University of Wisconsin–Madison
-- 💼 Formerly at Salesforce | Ex-Qualcomm
+- 💼 Working at Salesforce | Ex-Qualcomm
 - ✍️ Documenting my journey through tech, life, and learning
 
 ### 💡 Fun Facts:
@@ -21,4 +20,3 @@ I’m a software developer who loves building meaningful technology with empathy
 
 Let’s connect and collaborate on something cool! 🌟  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabanita-bag/)
-
