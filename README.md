@@ -20,5 +20,5 @@ I’m a software developer who loves building meaningful technology with empathy
 - 💬 I love deep conversations—from philosophy to programming
 
 Let’s connect and collaborate on something cool! 🌟  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nabanitabag](https://www.linkedin.com/in/nabanita-bag/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabanita-bag/)
 
