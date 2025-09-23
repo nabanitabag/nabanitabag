@@ -7,11 +7,12 @@ I’m a software developer who loves building meaningful technology with empathy
 
 ### 🌱 What I’m into:
 - 🚀 Backend development with Java, Spring Boot, JS and AWS
-- 🧪 Infrastructure reliability
 - 🌍 Exploring global cultures and sustainable tech solutions
+- Machine learning with TensorFlow
 
 ### 🎯 Currently:
-- 💼 Working at Salesforce | Ex-Qualcomm
+- 💼 MS CS at University of Wisconsin-Madison
+- Worked at Salesforce | Qualcomm
 - ✍️ Documenting my journey through tech, life, and learning
 
 ### 💡 Fun Facts:
