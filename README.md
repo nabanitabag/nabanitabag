@@ -29,4 +29,4 @@ Let’s connect and collaborate on something cool!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabanita-bag/) for all things professional
 
-[!(https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nabanita_bag) for the fun stuff
+[![Twitter] (https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nabanita_bag) for the fun stuff
