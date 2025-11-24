@@ -36,6 +36,6 @@ I’m a software developer who loves building meaningful technology with empathy
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/nabanita_bag">
-    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-black?logoColor=white" alt="X Badge"/>
   </a>
 </div>
