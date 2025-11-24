@@ -16,7 +16,7 @@ I’m a software developer who loves building meaningful technology with empathy
 - Interned at American Express, Bangalore (Yeah, some finance shenanigan there!)
 - Documenting my journey through tech, life, and learning
 
-### Reach me out at:
+### Reach out to me at:
 - [https://pages.cs.wisc.edu/~nbag/](https://pages.cs.wisc.edu/~nbag/)
 - nabanita.m.bag@gmail.com
   
@@ -25,7 +25,8 @@ I’m a software developer who loves building meaningful technology with empathy
 - 💬 I love deep conversations—from philosophy to programming to psychology.
 - I speak four languages: English, Bengali, Java and Sarcasm.
 
-Let’s connect and collaborate on something cool! 🌟  
+Let’s connect and collaborate on something cool!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabanita-bag/) for all things professional
 
-[![](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nabanita_bag) for the fun stuff
+[!(https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nabanita_bag) for the fun stuff
