@@ -27,4 +27,5 @@ I’m a software developer who loves building meaningful technology with empathy
 
 Let’s connect and collaborate on something cool! 🌟  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabanita-bag/) for all things professional
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nabanita_bag) for the fun stuff
+
+[![](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nabanita_bag) for the fun stuff
