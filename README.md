@@ -13,7 +13,7 @@ I’m a software developer who loves building meaningful technology with empathy
 ### Currently:
 - MS Computer Sciences at University of Wisconsin-Madison. Yes, it super chilly here trying not to freeze solid 🥶!
 - Worked at Salesforce and Qualcomm. (Yes, I’m collecting Big Tech experiences like Pokémon).
-- Interned at Americxan Express
+- Interned at American Express, Bangalore (Yeah, some finance shenanigan there!)
 - Documenting my journey through tech, life, and learning
 
 ### Reach me out at:
