@@ -1,6 +1,6 @@
 # Namaste, I’m Nabanita!
 
-I’m a software developer who loves building meaningful technology with empathy, curiosity, and a global mindset. Whether I’m architecting backend systems or exploring ethical AI, I’m driven by the desire to make tech kinder, smarter, and more inclusive.
+I’m driven by the desire to make tech kinder, smarter, and more inclusive.
 
 > _"Nothing of me is original. I am the combined effort of every ~~man~~ person I have ever known."_  
 > — Chuck Palahniuk
