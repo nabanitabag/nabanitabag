@@ -1,4 +1,4 @@
-# Namaste, I’m Nabanita!
+# Namaste, I’m Nabanita! You can call me Nab.
 
 I’m driven by the desire to make tech kinder, smarter, and more inclusive.
 
