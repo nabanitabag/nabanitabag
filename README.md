@@ -17,18 +17,17 @@ I’m driven by the desire to make tech kinder, smarter, and more inclusive.
 - Documenting my journey through tech, life, and learning
 
 ### Reach out to me at:
-- [https://pages.cs.wisc.edu/~nbag/](https://pages.cs.wisc.edu/~nbag/)
 - nabanita.m.bag@gmail.com
   
 ### Fun Facts:
-- 📚 I’m equally at home in bookstores and terminal windows
-- 💬 I love deep conversations—from philosophy to programming to psychology.
+- I’m equally at home in bookstores and terminal windows
+- I love deep conversations—from philosophy to programming to psychology.
 - I speak four languages: English, Bengali, Java and Sarcasm.
 
 <br>
 
 <div align="center">
-  Let’s connect and collaborate on something cool! 🌟
+  Let’s connect and collaborate on something cool! 
 
   <br>
 
