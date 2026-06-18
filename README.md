@@ -1,7 +1,5 @@
 # Namaste, I’m Nabanita! You can call me Nab.
 
-I’m driven by the desire to make tech kinder, smarter, and more inclusive.
-
 > _"Nothing of me is original. I am the combined effort of every ~~man~~ person I have ever known."_  
 > — Chuck Palahniuk
 
@@ -11,10 +9,9 @@ I’m driven by the desire to make tech kinder, smarter, and more inclusive.
 - **Machine learning** (teaching computers to be as curious as I am)
 
 ### Currently:
-- MS Computer Sciences at **University of Wisconsin-Madison**. Trying not to freeze solid 🥶!
-- Worked at **Salesforce** and **Qualcomm**. (I’m collecting Big Tech experiences like Pokémon).
-- Interned at American Express, Bangalore (Yeah, some finance shenanigan there!)
-- Documenting my journey through tech, life, and learning
+- MS Computer Sciences at **University of Wisconsin-Madison** with a focus on RL. Trying not to freeze solid 🥶!
+- Worked at **Salesforce** and **Qualcomm**.
+- Interned at Attune and American Express.
 
 ### Reach out to me at:
 - nabanita.m.bag@gmail.com
