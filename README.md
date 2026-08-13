@@ -19,7 +19,6 @@
 ### Fun Facts:
 - I’m equally at home in bookstores and terminal windows
 - I love deep conversations—from philosophy to programming to psychology.
-- I speak four languages: English, Bengali, Java and Sarcasm.
 
 <br>
 
