@@ -12,8 +12,8 @@
 - MS Computer Sciences at **University of Wisconsin-Madison** with a focus on RL. Trying not to freeze solid 🥶!
 - Worked at **Salesforce** and **Qualcomm**.
 
-### Reach out to me at:
-- nabanita.m.bag@gmail.com
+### Reach out to me on:
+- https://www.linkedin.com/in/nabanita-bag/
   
 ### Fun Facts:
 - I’m equally at home in bookstores and terminal windows
